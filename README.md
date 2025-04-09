@@ -23,3 +23,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Impe11e&show_icons=true&theme=transparent" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Impe11e&layout=compact&langs_count=10&theme=transparent" />
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
