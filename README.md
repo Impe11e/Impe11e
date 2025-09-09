@@ -3,7 +3,7 @@
 </p>
 
 <!-- <h1 align="center">Konnichiwa 👋, I'm Impe11e</h1> -->
-<h3 align="center">18 y.o. FICE student in KPI... nerd 🤓</h3>
+<h3 align="center">19 y.o. FICE student in KPI... nerd 🤓</h3>
 
 - 🌱 I’m currently learning **GoIT Python Software Engineering, WEB-development (JS, TS, Node)**
 
